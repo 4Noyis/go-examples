@@ -40,8 +40,7 @@ Slices
 
 ### Project 10
 
-Maps
-`Maps are Go’s built-in associative data type
+Maps: `Maps are Go’s built-in associative data type
 (sometimes called hashes or dicts in other languages).`
 
 ### Project 11
@@ -50,17 +49,15 @@ Functions
 
 ### Project 12
 
-multi Return
+Multi Return
 
 ### Project 13
 
-Variadic Functions
-Variadic functions can be called with any number of trailing arguments.
+Variadic Functions: `Variadic functions can be called with any number of trailing arguments.`
 
 ### Project 14
 
-Closures
-Define a function inline without having to name it.
+Closures: `Define a function inline without having to name it.`
 
 ### Project 15
 
