@@ -4,33 +4,67 @@ Example projects for Golang
 
 ### Project 1
 
+Hello World
+
 ### Project 2
+
+Values types in Go
 
 ### Project 3
 
+Variables in Golang
+
 ### Project 4
+
+Constants
 
 ### Project 5
 
+Only looping construct in Go "for"
+
 ### Project 6
+
+if/else
 
 ### Project 7
 
+Switch
+
 ### Project 8
+
+Arrays
 
 ### Project 9
 
+Slices
+
 ### Project 10
+
+Maps
+Maps are Go’s built-in associative data type
+(sometimes called hashes or dicts in other languages).
 
 ### Project 11
 
+Functions
+
 ### Project 12
+
+multi Return
 
 ### Project 13
 
+Variadic Functions
+Variadic functions can be called with any number of trailing arguments.
+
 ### Project 14
 
+Closures
+Define a function inline without having to name it.
+
 ### Project 15
+
+Range
 
 ### Project 16
 
