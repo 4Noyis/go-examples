@@ -41,8 +41,8 @@ Slices
 ### Project 10
 
 Maps
-Maps are Go’s built-in associative data type
-(sometimes called hashes or dicts in other languages).
+`Maps are Go’s built-in associative data type
+(sometimes called hashes or dicts in other languages).`
 
 ### Project 11
 
